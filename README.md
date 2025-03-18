@@ -42,8 +42,7 @@ HorrorMovieApplication/
 │   │   │   ├── templates/
 │   │   │   │   ├── index.html                # Frontend web page
 │── README.md                                 # Project documentation
-│── IT_SAKERHET_JAVA_24_Firstname_Lastname_Rapport_Uppgift1.md  # Security report
-│── IT_SAKERHET_JAVA_24_Firstname_Lastname_Uppgift1.zip         # Submission archive
+
 ```
 
 ---
